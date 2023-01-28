@@ -15,6 +15,7 @@ There are services/cloud which sell the hosting for the website. Hosting is the 
 ### DNS
 It is like a phone book where real names are resolved to the mobile numbers. Here the domain name is resolved to the IP address of the server/hosting. It is also sometime called a service discovery. DNS records are lies in the nameservers. Records can be A, CNAME, MX, etc.
 > A records indicate the root domain resolve to server IP address
+
 > CNAME records indicate the sub domain resolve to the server IP address.
 
 ### Nameservers
